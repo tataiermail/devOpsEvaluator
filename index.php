@@ -105,7 +105,7 @@
 					
 						<div class="card bg-transparent text-center">
 							<div class="text-center">
-								<img class="rounded-circle border border-primary mb-2" src="team-photos/cts-logo.png" alt="Generic placeholder image" width="140" height="140">
+								<img class="rounded-circle border border-primary mb-2" src="team-photos/CBH.jpg" alt="Generic placeholder image" width="140" height="140">
 							</div>
 							<div class="card-body pb-0 pt-0">
 								<h6>Chris Baynham-Hughes</h6>	
@@ -120,7 +120,7 @@
 	
 						<div class="card bg-transparent text-center">
 							<div class="text-center">
-								<img class="rounded-circle border border-primary mb-2" src="team-photos/gild-logo.png" alt="Generic placeholder image" width="140" height="140">
+								<img class="rounded-circle border border-primary mb-2" src="team-photos/JC.jpg" alt="Generic placeholder image" width="140" height="140">
 							</div>
 							
 							<div class="card-body  pb-0 pt-0">
