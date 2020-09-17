@@ -133,69 +133,14 @@
 						</div>
 
 		
-						<div class="card bg-transparent text-center">
-							<div class="text-center">
-								<img class="rounded-circle border border-primary mb-2" src="team-photos/DD.jpg" alt="Generic placeholder image" width="140" height="140">
-							</div>
-							<div class="card-body  pb-0 pt-0">
-								<h6>David Daly</h6>								
-								<p class="small">Global Deal Assurance Manager at Worldline</p>
-							</div>
-							<div class="card-footer text-center pt-0">
-								<?=RenderLinkedInLink('https://www.linkedin.com/in/david-daly-fbcs-citp-7a84775/')?>
-								<?=RenderTwitterLink('https://twitter.com/DavidDalyWL')?>
-							</div>
-						</div>
+
 					
 
 					</div>
 					
 				</div>
 			</div>
-			<div class="row mt-4">
-				
-				<div class="col-lg-2"></div>
-				<div class="col-lg-8">
-					
-					<div class="card-deck">
-					
-						<div class="card bg-transparent text-center">
-							<div class="text-center">
-								<img class="rounded-circle border border-primary mb-2" src="team-photos/PT.jpg" alt="Generic placeholder image" width="140" height="140">
-							</div>
-							<div class="card-body pb-0 pt-0">
-								<h6>Panagiotis Tamtamis</h6>	
-								<p class="small">Senior Software Engineer at Atos</p>
-							</div>
-							<div class="card-footer text-center pt-0">
-								<?=RenderLinkedInLink('https://www.linkedin.com/in/panagiotis-tamtamis-2441a419/')?>
-								<?=RenderTwitterLink('https://twitter.com/PTamis')?>	
-							</div>
-						</div>
-
-	
-						<div class="card bg-transparent text-center">
-							<div class="text-center">
-								<img class="rounded-circle border border-primary mb-2" src="team-photos/DU.jpg" alt="Generic placeholder image" width="140" height="140">
-							</div>
-							
-							<div class="card-body  pb-0 pt-0">
-								<h6>Dan Usher</h6>
-								<p class="small">Head of Transformation, Digital Self Service at Worldline UK&I</p>
-							</div>
-							<div class="card-footer text-center pt-0">
-								<?=RenderLinkedInLink('https://www.linkedin.com/in/daniel-usher-49198310/')?>
-								<?=RenderTwitterLink('https://twitter.com/UsherDL')?>
-							</div>
-						</div>
-					
-
-					</div>
-					
-				
-				</div><!-- /.col-lg-12 -->
-				<div class="col-lg-2"></div>
-			</div><!-- /.row -->
+			<!-- /.row -->
 		
 		
 	
