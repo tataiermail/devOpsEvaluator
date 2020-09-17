@@ -195,8 +195,8 @@
 	<body id="bigwrapper">
 
 	<nav class="navbar navbar-dark bg-primary fixed-top navbar-expand-md form-group" ">
+		<img class="rounded-circle border border-primary mb-2" src="team-photos/cts-logo.png" alt="Generic placeholder image" width="60" height="60">
 		<a href="about" class="navbar-brand">DevOps Maturity Assessment</a>
-		<img class="rounded-circle border border-primary mb-2" src="team-photos/cts-logo.png" alt="Generic placeholder image" width="140" height="140">
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
 			<span class="navbar-toggler-icon"></span>
 		</button>
