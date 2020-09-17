@@ -93,7 +93,7 @@
 			<section class="jumbotron text-center border border-primary bg-dark mt-2">
 				<div class="container">
 					<h1 class="jumbotron-heading">Meet The Team</h1>
-					<p class="lead">This tool was created by members of the Atos Expert Community with contributions from many other practitioners across Atos and Worldline globally. You can find out more about the core team below.	</p>
+					<p class="lead">This tool was customized by members of the Cognizant DevOps team working at Gilead Sciences. It was originally created by and was forked from code-based of: https://devopsmaturity.atos.net</p>
 				</div>
 			</section>
 		  
@@ -108,13 +108,15 @@
 								<img class="rounded-circle border border-primary mb-2" src="team-photos/cts-logo.png" alt="Generic placeholder image" width="140" height="140">
 							</div>
 							<div class="card-body pb-0 pt-0">
-								<h6>Chris Baynham-Hughes</h6>	
-								<p class="small">Head of UK Business Development RedHat Emerging Technologies & DevOps at Atos</p>
+								<h6>Cognizant</h6>	
+								<p class="small">CTSH</p>
 							</div>
+							<!--
 							<div class="card-footer text-center pt-0">
 								<?=RenderLinkedInLink('https://www.linkedin.com/in/chrisbh/')?>
 								<?=RenderTwitterLink('https://twitter.com/OnlyChrisBH')?>	
 							</div>
+							-->
 						</div>
 
 	
@@ -124,12 +126,14 @@
 							</div>
 							
 							<div class="card-body  pb-0 pt-0">
-								<h6>John Chatterton</h6>
-								<p class="small">Principal Enterprise Architect</p>
+								<h6>Gilead Sciences</h6>
+								<p class="small">GILD</p>
 							</div>
+							<!--
 							<div class="card-footer text-center pt-0">
-								<?=RenderLinkedInLink('https://www.linkedin.com/in/john-chatterton-73940a9/')?>
+								<?=RenderLinkedInLink('https://www.linkedin.com/in/john-chatterton-73940a9/')?> 
 							</div>
+							-->
 						</div>
 
 		
