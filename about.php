@@ -92,8 +92,8 @@
 		  
 			<section class="jumbotron text-center border border-primary bg-dark mt-2">
 				<div class="container">
-					<h1 class="jumbotron-heading">Meet The Team</h1>
-					<p class="lead">This tool was customized by members of the Cognizant DevOps team working at Gilead Sciences. It was originally created by and was forked from code-based of: https://devopsmaturity.atos.net</p>
+					<h1 class="jumbotron-heading">Creators</h1>
+					<p class="lead">This tool was customized by members of the Cognizant DevOps team working at Gilead Sciences. It was originally created by and was forked from code-base of: https://devopsmaturity.atos.net</p>
 				</div>
 			</section>
 		  
