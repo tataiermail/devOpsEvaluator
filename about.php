@@ -50,19 +50,18 @@
 			</section>
 		
 			<!-- Three columns of text below the jumbotron -->
-			<div class="row" align="center">
+			<div class="row">
 			
-				<div class="col-lg-4">
+				<div class="col-lg-6">
 					<span class="fa-stack fa-5x mb-4">
 						<i class="fas fa-circle fa-stack-2x text-primary"></i>
 						<i class="far fa-chart-bar fa-stack-1x"></i>
 					</span>
 					<h2>Understand Where You Are</h2>
-					<p class="text-justify">Our set of carefully designed questions across 7 different areas will help you quickly establish your current level of DevOps maturity.</p>
-					<p class="text-justify">You can view the results online as well as downloading them in CSV format for more detailed analysis.</p>
+					<p class="text-justify">Our set of carefully designed questions across 7 different areas will help you quickly establish your current level of DevOps maturity. You can view the results online as well as downloading them in CSV format for more detailed analysis.</p>
 				</div><!-- /.col-lg-4 -->
 			
-				<div class="col-lg-4">
+				<div class="col-lg-6">
 					<span class="fa-stack fa-5x mb-4">
 						<i class="fas fa-circle fa-stack-2x text-primary"></i>
 						<i class="fas fa-shoe-prints fa-stack-1x"></i>
@@ -85,6 +84,7 @@
 				
 			</div><!-- /.row -->
 		  
+			<!--
 			<div class="row">
 				<div class="col-lg-12">
 					<p align="center"><em>We do not harvest your data and we will not share your results with anyone else.</em></p>
@@ -97,6 +97,7 @@
 					<p class="lead">This tool was customized by members of the Cognizant DevOps team working at Gilead Sciences. It was originally created by and was forked from code-base of: https://devopsmaturity.atos.net</p>
 				</div>
 			</section>
+			-->
 		  
 			<div class="row">
 			
@@ -110,7 +111,7 @@
 							</div>
 							<div class="card-body pb-0 pt-0">
 								<h6>Cognizant</h6>	
-								<p class="small">CTSH</p>
+								<!-- <p class="small">CTSH</p> -->
 							</div>
 							<!--
 							<div class="card-footer text-center pt-0">
@@ -128,7 +129,7 @@
 							
 							<div class="card-body  pb-0 pt-0">
 								<h6>Gilead Sciences</h6>
-								<p class="small">GILD</p>
+								<!-- <p class="small">GILD</p> -->
 							</div>
 							<!--
 							<div class="card-footer text-center pt-0">
