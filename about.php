@@ -88,11 +88,11 @@
 			-->
 
 			<div class="row" align="center">
-				<img class="rounded-circle border border-primary mb-2" src="team-photos/combined_logo.jpg" alt="Generic placeholder image" width="624" height="81">
+				<img class="border border-primary mb-2" src="team-photos/combined_logo.jpg" alt="Generic placeholder image" width="624" height="81">
 			</div>
 		  
 
-		  /*
+			<!--
 			<div class="row">
 			
 				<div class="col-lg-12">
@@ -128,7 +128,7 @@
 					
 				</div>
 			</div>
-			*/
+			-->
 			<!-- /.row -->
 		
 		
