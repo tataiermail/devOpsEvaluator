@@ -87,7 +87,7 @@
 			</section>
 			-->
 
-			<div class="row" align="center">
+			<div class="row" style="text-align=center">
 				<img class="border border-primary mb-2" src="team-photos/combined_logo.jpg" alt="Generic placeholder image" width="624" height="81">
 			</div>
 		  
