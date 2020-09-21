@@ -86,6 +86,10 @@
 				</div>
 			</section>
 			-->
+
+			<div class="row" align="center">
+				<img class="rounded-circle border border-primary mb-2" src="team-photos/combined_logo.png" alt="Generic placeholder image">
+			</div>
 		  
 			<div class="row">
 			
