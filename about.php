@@ -44,7 +44,7 @@
 					<p class="lead">This online DevOps Maturity Assessment questionnaire will help you understand your current strengths and weaknesses and then recommend resources that can support you in taking the next steps on your DevOps journey.</p>
 					<p>
 						<a href="<?='section-' . SectionNameToURLName($survey->sections[0]['SectionName'])?>" class="btn btn-primary">Start the Questionnaire</a>
-						<a href="https://github.com/atosorigin/DevOpsMaturityAssessment" target="_blank" class="btn btn-secondary">Fork us on GitHub</a>
+						<!-- <a href="https://github.com/atosorigin/DevOpsMaturityAssessment" target="_blank" class="btn btn-secondary">Fork us on GitHub</a> -->
 					</p>
 				</div>
 			</section>
@@ -71,7 +71,7 @@
 					<p class="text-justify">For each area we have identified a range of free or commercially available books, videos, blog posts, white papers and websites that will help you take the next steps on your DevOps journey.</p>
 				</div><!-- /.col-lg-4 -->
 		  
-
+				<!--
 				<div class="col-lg-4">
 					<span class="fa-stack fa-5x mb-4">
 						<i class="fas fa-circle fa-stack-2x text-primary"></i>
@@ -80,7 +80,8 @@
 					<h2>Free and Open Source</h2>
 					<p class="text-justify">This tool is made available under the MIT License: you are free to use, adapt and redistribute it, both for commercial and non-commercial use. There is no obligation to share your changes, although we always appreciate feedback! Why not <a href="https://github.com/atosorigin/DevOpsMaturityAssessment" target="_blank">fork us on GitHub</a>?</p>
 		
-				</div><!-- /.col-lg-4 -->
+				</div>
+				--> <!-- /.col-lg-4 -->
 				
 			</div><!-- /.row -->
 		  
