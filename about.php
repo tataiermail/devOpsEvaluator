@@ -50,7 +50,7 @@
 			</section>
 		
 			<!-- Three columns of text below the jumbotron -->
-			<div class="row">
+			<div class="row" align="center">
 			
 				<div class="col-lg-6">
 					<span class="fa-stack fa-5x mb-4">
@@ -69,19 +69,7 @@
 					<h2>Identify Your Next Steps</h2>
 					<p class="text-justify">For each area we have identified a range of free or commercially available books, videos, blog posts, white papers and websites that will help you take the next steps on your DevOps journey.</p>
 				</div><!-- /.col-lg-4 -->
-		  
-				<!--
-				<div class="col-lg-4">
-					<span class="fa-stack fa-5x mb-4">
-						<i class="fas fa-circle fa-stack-2x text-primary"></i>
-						<i class="fas fa-lock-open fa-stack-1x"></i>
-					</span>
-					<h2>Free and Open Source</h2>
-					<p class="text-justify">This tool is made available under the MIT License: you are free to use, adapt and redistribute it, both for commercial and non-commercial use. There is no obligation to share your changes, although we always appreciate feedback! Why not <a href="https://github.com/atosorigin/DevOpsMaturityAssessment" target="_blank">fork us on GitHub</a>?</p>
-		
-				</div>
-				--> <!-- /.col-lg-4 -->
-				
+			
 			</div><!-- /.row -->
 		  
 			<!--
@@ -111,14 +99,7 @@
 							</div>
 							<div class="card-body pb-0 pt-0">
 								<h6>Cognizant</h6>	
-								<!-- <p class="small">CTSH</p> -->
 							</div>
-							<!--
-							<div class="card-footer text-center pt-0">
-								<?=RenderLinkedInLink('https://www.linkedin.com/in/chrisbh/')?>
-								<?=RenderTwitterLink('https://twitter.com/OnlyChrisBH')?>	
-							</div>
-							-->
 						</div>
 
 	
@@ -129,13 +110,8 @@
 							
 							<div class="card-body  pb-0 pt-0">
 								<h6>Gilead Sciences</h6>
-								<!-- <p class="small">GILD</p> -->
 							</div>
-							<!--
-							<div class="card-footer text-center pt-0">
-								<?=RenderLinkedInLink('https://www.linkedin.com/in/john-chatterton-73940a9/')?> 
-							</div>
-							-->
+						
 						</div>
 
 		
