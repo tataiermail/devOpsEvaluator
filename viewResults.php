@@ -189,7 +189,7 @@
 						display: true,
 						text: '<?=$chartTitle?>',
 						fontSize: 16,
-						fontColor: "white"
+						fontColor: "blue"
 					},
 					tooltips: {
 						custom: function(tooltip) {
