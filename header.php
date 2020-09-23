@@ -150,9 +150,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 		<!-- Open Graph info -->
-		<meta property="og:title" content="DevOps Maturity Evaluator" />
+		<meta property="og:title" content="DevOps Maturity Assessment" />
 		<meta property="og:description" content="This online DevOps Maturity Assessment questionnaire will help you understand your current strengths and weaknesses and then recommend resources that can support you in taking the next steps on your DevOps journey." />
-		<meta property="og:site_name" content="DevOps Maturity Evaluator" />
+		<meta property="og:site_name" content="DevOps Maturity Assessment" />
 		<meta property="og:image" content="<?=GetBaseURL()?>/og-image.jpg" />
 		<meta property="og:image:width" content="1680" />
 		<meta property="og:image:height" content="870" />
@@ -170,7 +170,7 @@
 		<link rel="stylesheet" href="css/bootstrap.min.css">
 		<link rel="stylesheet" href="fontawesome/css/all.css" rel="stylesheet">
 
-		<title>DevOps Maturity Evaluator</title>
+		<title>DevOps Maturity Assessment</title>
 		<script src="./js/chart.bundle.min.js"></script>
 		<script src="js/jquery-3.3.1.min.js"></script>		
 		<style>
@@ -195,8 +195,8 @@
 	<body id="bigwrapper">
 
 	<nav class="navbar navbar-dark bg-primary fixed-top navbar-expand-md form-group" ">
-		<img class="rounded-circle border border-primary mb-2" src="team-photos/cts-logo.png" alt="Generic placeholder image" width="60" height="60">
-		<a href="about" class="navbar-brand">  DevOps Maturity Evaluator</a>
+		<img class="border-primary mb-2" src="team-photos/cts-logo.png" alt="Generic placeholder image" height="60">
+		<a href="about" class="navbar-brand" style="padding-left:40%">  DevOps Maturity Assessment</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
 			<span class="navbar-toggler-icon"></span>
 		</button>
