@@ -175,7 +175,7 @@
 		<script src="js/jquery-3.3.1.min.js"></script>		
 		<style>
 			#bigwrapper {
-				background-image: Url('backdrop.jpg');
+				/*background-image: Url('backdrop.jpg');*/
 				background-repeat: no-repeat;
 				background-position: top center;
 				background-attachment: fixed;
