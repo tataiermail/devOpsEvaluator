@@ -220,10 +220,10 @@
 						},
 						pointLabels: {
 							fontSize: 14,
-							fontColor: "white"
+							fontColor: "blue"
 						},
-						gridLines: { color: "white" },
-						angleLines: { color: "white" }, 
+						gridLines: { color: "green" },
+						angleLines: { color: "green" }, 
 					}
 				}
 		}
