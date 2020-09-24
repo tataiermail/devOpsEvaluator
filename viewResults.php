@@ -189,7 +189,7 @@
 						display: true,
 						text: '<?=$chartTitle?>',
 						fontSize: 16,
-						fontColor: "blue"
+						fontColor: "white"
 					},
 					tooltips: {
 						custom: function(tooltip) {
@@ -220,10 +220,10 @@
 						},
 						pointLabels: {
 							fontSize: 14,
-							fontColor: "blue"
+							fontColor: "white"
 						},
-						gridLines: { color: "green" },
-						angleLines: { color: "green" }, 
+						gridLines: { color: "cyan" },
+						angleLines: { color: "cyan" }, 
 					}
 				}
 		}
