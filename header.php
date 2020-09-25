@@ -198,7 +198,7 @@
 
 	<nav class="navbar navbar-dark bg-primary fixed-top navbar-expand-md form-group" ">
 		<img class="border-primary mb-2" src="team-photos/cts-logo.png" alt="Generic placeholder image" height="45"/>
-		<a href="about" class="navbar-brand" style="padding-left:40%">  DevOps Maturity Assessment</a>
+		<a href="about" class="navbar-brand" style="padding-left:5%">DevOps Maturity Assessment</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
 			<span class="navbar-toggler-icon"></span>
 		</button>
