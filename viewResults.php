@@ -58,6 +58,7 @@
 	uasort( $resultsSummary, function($a, $b) { return $b['ScorePercentage'] - $a['ScorePercentage']; } );
 	
 	// Now create the preamble, telling people about strengths and weaknesses
+	/*
 	$preAmble = '';
 	switch ( count($resultsSummary) )
 	{
@@ -79,7 +80,7 @@
 						'<p>The 3 areas where you have the most potential to improve are listed below, together with links to resources that you may find useful.</p>';
 			break;
 	}
-
+*/
 ?>
 	
 	<div class="container-fluid">
