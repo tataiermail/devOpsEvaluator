@@ -67,7 +67,7 @@
 						<i class="fas fa-shoe-prints fa-stack-1x"></i>
 					</span>
 					<h2>Identify Your Next Steps</h2>
-					<p class="text-justify">For each area we have identified a range of free or commercially available books, videos, blog posts, white papers and websites that will help you take the next steps on your DevOps journey.</p>
+					<p class="text-justify">Current DevOps maturity status, solution recommendations will be provided by GileadCTSDevOps@cognizant.com once you respond to the Questionnaire and share the output CSV file.</p>
 				</div><!-- /.col-lg-4 -->
 			
 			</div><!-- /.row -->
